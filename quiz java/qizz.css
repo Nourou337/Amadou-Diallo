@@ -1,0 +1,25 @@
+*{
+ padding: 0;
+ margin: auto;
+}
+#quizz{
+    background-color: rgb(189, 177, 191);
+    margin: auto;
+    max-width: 500px;
+    padding: 25px 10px 50px 10px;
+    margin-top: 50px;
+    font-size: 20px;
+    width: 300px;
+    border-radius: 5px;
+}
+button{
+    margin-top: 10px;
+    background-color: rgb(15, 155, 69);
+    color: white;
+}
+label{
+ font-size: 15px;
+}
+.Q1{
+ margin-top: -10px;
+}
